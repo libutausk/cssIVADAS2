@@ -1,0 +1,40 @@
+		 * {
+		 font-family: 'Roboto Condensed', sans-serif; 
+		 }
+		 body {
+                background-color: #F4A1A1;
+            }
+            h2 {
+                border: 1px solid #C0BFBF;
+                padding: 10px;
+                margin: 5px 10px 5px 10px;  
+            }
+            .box {
+                width: 300px;
+                background-color: #fff;
+                box-sizing: border-box;
+                padding: 10px;
+                margin: 0 auto;
+                box-shadow: 7px 7px #FADADA;
+            }
+            .italic {
+                font-style: italic;
+            }
+            .bold {
+                font-weight: 700;
+                line-height: 1 ;
+                margin-top: 0 ;
+                margin-bottom: 0 ;
+            }
+            span {
+                font-weight: 400;
+            }
+            .textBox {
+                padding: 10px;
+                border: 1px solid #C0BFBF;   
+                margin: 10px;
+            }
+            img {
+                width: 260px; 
+                padding: 10px;
+            }
